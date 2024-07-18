@@ -27,11 +27,11 @@ h2{
     width: 260px;
     height: 142px;
     border-radius: 14px;
-    background-color: gray;
+    background-color: rgb(202, 202, 202);
 }
 
 .descShimmer{
-    background-color: gray;
+    background-color: rgb(202, 202, 202);
     width:200px;
     height: 16px;
     margin: 10px 15px;
@@ -54,6 +54,7 @@ h2{
 .restaurantList{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .restaurantMenu{
